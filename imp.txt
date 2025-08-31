@@ -1,0 +1,1 @@
+uri = 052694765422.dkr.ecr.eu-north-1.amazonaws.com/medical-chatbot
