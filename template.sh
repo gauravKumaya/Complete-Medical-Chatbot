@@ -9,6 +9,6 @@ touch .env
 toucn setup.py
 touch app.py
 touch research/trials.ipynb
-touch requirements.txt
+touch requirements.txt/
 
-echo "Project structure created successfully."
+echo "Project structure created successfully."co

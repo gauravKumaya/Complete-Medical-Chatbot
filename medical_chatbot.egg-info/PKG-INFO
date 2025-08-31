@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: medical_chatbot
+Version: 0.0.0
+Author: Gaurv Singh
+Author-email: gauravkumaya@gmail.com
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file
